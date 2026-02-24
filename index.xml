@@ -1,0 +1,72 @@
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<students>
+    <student>
+        <id>S001</id>
+        <name>Nishant</name>
+        <department>Computer Science</department>
+        <email>nishant@example.com</email>
+    </student>
+
+    <student>
+        <id>S002</id>
+        <name>Praveen</name>
+        <department>Computer Science</department>
+        <email>praveen@example.com</email>
+    </student>
+
+    <student>
+        <id>S003</id>
+        <name>Karthik</name>
+        <department>Computer Science</department>
+        <email>karthik@example.com</email>
+    </student>
+
+    <student>
+        <id>S004</id>
+        <name>Prasad</name>
+        <department>Computer Science</department>
+        <email>prasad@example.com</email>
+    </student>
+
+    <student>
+        <id>S005</id>
+        <name>Sravan</name>
+        <department>Computer Science</department>
+        <email>sravan@example.com</email>
+    </student>
+
+    <student>
+        <id>S006</id>
+        <name>Naveen</name>
+        <department>Computer Science</department>
+        <email>naveen@example.com</email>
+    </student>
+
+    <student>
+        <id>S007</id>
+        <name>Purushottam</name>
+        <department>Computer Science</department>
+        <email>purushottam@example.com</email>
+    </student>
+
+    <student>
+        <id>S008</id>
+        <name>Harsha</name>
+        <department>Computer Science</department>
+        <email>harsha@example.com</email>
+    </student>
+
+    <student>
+        <id>S009</id>
+        <name>Bhavana</name>
+        <department>Computer Science</department>
+        <email>bhavana@example.com</email>
+    </student>
+
+    <student>
+        <id>S010</id>
+        <name>Varihini</name>
+        <department>Computer Science</department>
+        <email>varihini@example.com</email>
+    </student>
+</students>
